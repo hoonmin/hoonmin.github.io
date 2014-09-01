@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+title: "Docker: Getting Started With CentOS"
+date: {}
+categories: docker
 ---
 
 Docker: Getting Started With CentOS
