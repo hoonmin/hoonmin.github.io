@@ -1,9 +1,9 @@
 ---
-published: true
+published: false
 layout: post
 title: "Docker: Getting Started With CentOS"
 comments: true
-permalink: docker-getting-started-with-centos
+permalink: "docker-getting-started-with-centos"
 categories: docker
 ---
 
