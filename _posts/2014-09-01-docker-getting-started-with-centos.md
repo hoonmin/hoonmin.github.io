@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: "Docker: Getting Started With CentOS"
-date: {}
+comments: true
+permalink: docker-getting-started-with-centos
 categories: docker
 ---
 
